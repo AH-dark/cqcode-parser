@@ -12,7 +12,7 @@
     "url": "https://ahdark.com"
   },
   "license": "MIT",
-  "private": true,
+  "private": false,
   "devDependencies": {
     "@types/node": "^17.0.41",
     "prettier": "^2.6.2",
