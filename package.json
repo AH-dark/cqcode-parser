@@ -1,0 +1,21 @@
+{
+  "name": "cqcode-parse",
+  "version": "1.0.0",
+  "description": "CQ码解析",
+  "main": "src/parse.ts",
+  "bin": {
+    "cqcode-parse": "src/index.ts"
+  },
+  "author": {
+    "name": "AH-dark",
+    "email": "ahdark@outlook.com",
+    "url": "https://ahdark.com"
+  },
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^17.0.41",
+    "prettier": "^2.6.2",
+    "typescript": "^4.7.3"
+  }
+}
